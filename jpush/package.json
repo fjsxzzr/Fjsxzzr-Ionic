@@ -1,0 +1,11 @@
+{
+  "name": "@ionic-native/jpush",
+  "version": "5.0.0-beta.21",
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fjsxzzr",
+  "license": "ISC"
+}
