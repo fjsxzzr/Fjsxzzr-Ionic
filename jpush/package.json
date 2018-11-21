@@ -1,0 +1,11 @@
+{
+  "name": "@fjsxzzr/jpush",
+  "version": "5.0.0-beta.21",
+  "description": "fjsxzzr jpush module",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "author": "fjsxzzr",
+  "license": "ISC"
+}

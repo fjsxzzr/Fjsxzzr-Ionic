@@ -1,0 +1,11 @@
+{
+  "name": "@fjsxzzr/baidumap-location",
+  "version": "5.0.0-beta.21",
+  "description": "fjsxzzr baidu map location module",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "author": "fjsxzzr",
+  "license": "ISC"
+}
