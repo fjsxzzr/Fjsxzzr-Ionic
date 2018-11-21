@@ -6,7 +6,7 @@ ionic4
 版本: 5.0.0-beta.21
 
 1.添加@ionic-native/app-update中AppUpdateOptions的参数
-skipPromptDialog,skipProgressDialo
+skipPromptDialog,skipProgressDialog
 
 npm install @fjsxzzr/ionic-native-app-update
 
