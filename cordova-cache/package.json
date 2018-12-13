@@ -1,0 +1,11 @@
+{
+  "name": "@fjsxzzr/cordova-cache",
+  "version": "5.0.0-beta.21",
+  "description": "fjsxzzr cordova cache module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fjsxzzr",
+  "license": "ISC"
+}
