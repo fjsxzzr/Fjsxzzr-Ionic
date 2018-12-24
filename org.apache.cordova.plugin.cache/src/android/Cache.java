@@ -144,7 +144,7 @@ public class Cache extends CordovaPlugin {
 			}
 		}
 
-		if(!"house.decor.mall.db".equals(dir.getName()) && !dir.isDirectory() && dir.exists()){
+		if(!".db".equals(dir.getName()) && !dir.isDirectory() && dir.exists()){
 		  return dir.delete();
     }else{
       return true;
