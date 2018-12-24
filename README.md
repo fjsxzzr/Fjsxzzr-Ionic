@@ -16,4 +16,7 @@ npm install @fjsxzzr/baidumap-location
 3.添加支持jpush-phonegap-plugin插件
 npm install @fjsxzzr/jpush
 
+4.添加支持org.apache.cordova.plugin.cache插件
+npm install @fjsxzzr/cordova-cache
+
 
