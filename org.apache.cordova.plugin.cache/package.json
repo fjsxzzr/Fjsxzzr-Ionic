@@ -1,0 +1,50 @@
+{
+  "_from": "git+https://github.com/tiltshiftfocus/cordova-plugin-cache.git",
+  "_id": "cordova-plugin-cache@1.0.5",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-cache",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/tiltshiftfocus/cordova-plugin-cache.git",
+    "rawSpec": "https://github.com/tiltshiftfocus/cordova-plugin-cache.git",
+    "saveSpec": "git+https://github.com/tiltshiftfocus/cordova-plugin-cache.git",
+    "fetchSpec": "https://github.com/tiltshiftfocus/cordova-plugin-cache.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/tiltshiftfocus/cordova-plugin-cache.git#04141ddc85fb93fd1dfb30262d33ae0b3ab6b539",
+  "_spec": "https://github.com/tiltshiftfocus/cordova-plugin-cache.git",
+  "_where": "D:\\EFixSys\\CustomerApp",
+  "bugs": {
+    "url": "https://github.com/andxyz/cordova-plugin-cache/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-cache",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova Clear Cache Plugin",
+  "homepage": "https://github.com/andxyz/cordova-plugin-cache#readme",
+  "keywords": [
+    "cordova",
+    "cache",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "name": "cordova-plugin-cache",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andxyz/cordova-plugin-cache.git"
+  },
+  "version": "1.0.5"
+}
